@@ -13,11 +13,3 @@ h2 {
 h3 {
   color: #a7d7c5;
 }
-
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: #a7d7c5;
-  border-width: 5px;
-  width: 4%;
-}
